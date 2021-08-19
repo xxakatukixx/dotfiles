@@ -15,6 +15,7 @@ brew install curl
 brew install vim
 # Other
 brew install tmux
+brew install peco
 
 # Google
 brew install --cask google-drive
